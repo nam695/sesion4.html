@@ -1,0 +1,23 @@
+button {
+    background-color: #04AA6D;
+    color: whitesmoke;
+    align-items: center;
+    padding-left: 18%;
+    padding-right: 18%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    border: none;
+    text-align: center;
+}
+.A {
+    margin-left: 30% ;
+}
+h2{
+   margin-left: 29%;
+}
+#a{
+    padding-left: 11%;
+    padding-right: 11%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}

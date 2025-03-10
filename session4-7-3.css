@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+button{
+    background-color: #000000;
+    color: whitesmoke;
+    align-items: center;
+    padding-left: 32%;
+    padding-right: 32%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    border: none;
+    text-align: center;
+}
+#A{
+    padding-left: 33%;
+    padding-right: 20%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
